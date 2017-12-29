@@ -31,18 +31,3 @@ foreach($subclassList as $subClass) {
 $json = json_encode($fullList, JSON_PRETTY_PRINT);
 
 file_put_contents('fullList.json', $json);
-
-die();
-
-$animeType = searchBy('P279', 'Q11424');
-
-$subclassList = array();
-foreach ($animeType as $type) {
-    $subclassList[] = array('id' => $type->id,
-    'label' => $type->label);
-}
-
-
-$json = json_encode($subclassList, JSON_PRETTY_PRINT);
-
-echo $json;
