@@ -1,0 +1,21 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX v: <http://www.wikidata.org/prop/statement/>
+PREFIX q: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?h ?cause ?hl ?causel WHERE {
+	?h wdt:P39 wd:Q11696 ;
+		wdt:P509 ?cause .
+	OPTIONAL {
+		?h rdfs:label ?hl .
+		FILTER (LANG (?hl) = "en")
+	}
+	OPTIONAL {
+		?cause rdfs:label ?causel .
+		FILTER (LANG (?causel) = "en")
+	}
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "freearhey/wikidata": "^2.0"
+    }
+}
