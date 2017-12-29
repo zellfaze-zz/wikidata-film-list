@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Q1107",
+        "label": "anime"
+    },
+    {
+        "id": "Q24862",
+        "label": "short film"
+    },
+    {
+        "id": "Q24865",
+        "label": "medium-length film"
+    },
+    {
+        "id": "Q24869",
+        "label": "feature film"
+    },
+    {
+        "id": "Q31235",
+        "label": "remake"
+    },
+    {
+        "id": "Q93204",
+        "label": "documentary film"
+    },
+    {
+        "id": "Q130232",
+        "label": "drama film"
+    },
+    {
+        "id": "Q157443",
+        "label": "comedy film"
+    },
+    {
+        "id": "Q188473",
+        "label": "action film"
+    },
+    {
+        "id": "Q200092",
+        "label": "horror film"
+    },
+    {
+        "id": "Q202866",
+        "label": "animated film"
+    },
+    {
+        "id": "Q219557",
+        "label": "cult film"
+    },
+    {
+        "id": "Q226730",
+        "label": "silent film"
+    },
+    {
+        "id": "Q229390",
+        "label": "3D film"
+    },
+    {
+        "id": "Q319221",
+        "label": "adventure film"
+    },
+    {
+        "id": "Q336144",
+        "label": "anthology film"
+    },
+    {
+        "id": "Q430525",
+        "label": "concert film"
+    },
+    {
+        "id": "Q455315",
+        "label": "compilation film"
+    },
+    {
+        "id": "Q459290",
+        "label": "independent film"
+    },
+    {
+        "id": "Q505119",
+        "label": "blockbuster"
+    },
+    {
+        "id": "Q506240",
+        "label": "television film"
+    },
+    {
+        "id": "Q517386",
+        "label": "live action"
+    },
+    {
+        "id": "Q645928",
+        "label": "biographical film"
+    },
+    {
+        "id": "Q652256",
+        "label": "epic film"
+    },
+    {
+        "id": "Q663106",
+        "label": "buddy film"
+    },
+    {
+        "id": "Q790192",
+        "label": "experimental film"
+    },
+    {
+        "id": "Q842256",
+        "label": "musical film"
+    },
+    {
+        "id": "Q848512",
+        "label": "sound film"
+    },
+    {
+        "id": "Q959790",
+        "label": "crime film"
+    },
+    {
+        "id": "Q1060398",
+        "label": "4D film"
+    },
+    {
+        "id": "Q1067324",
+        "label": "exploitation film"
+    },
+    {
+        "id": "Q1146335",
+        "label": "teen film"
+    },
+    {
+        "id": "Q1200678",
+        "label": "mystery film"
+    },
+    {
+        "id": "Q1251417",
+        "label": "Double feature"
+    },
+    {
+        "id": "Q1268687",
+        "label": "lost film"
+    },
+    {
+        "id": "Q1320115",
+        "label": "low-budget film"
+    },
+    {
+        "id": "Q1361932",
+        "label": "family film"
+    },
+    {
+        "id": "Q1397462",
+        "label": "fashion film"
+    },
+    {
+        "id": "Q1935609",
+        "label": "propaganda film"
+    },
+    {
+        "id": "Q2165644",
+        "label": "box office bomb"
+    },
+    {
+        "id": "Q2301591",
+        "label": "fan film"
+    },
+    {
+        "id": "Q2518205",
+        "label": "multiple-language version"
+    },
+    {
+        "id": "Q2903140",
+        "label": "interactive cinema"
+    },
+    {
+        "id": "Q3072043",
+        "label": "dance film"
+    },
+    {
+        "id": "Q3250548",
+        "label": "Sandalwood"
+    },
+    {
+        "id": "Q3585697",
+        "label": "featurette"
+    },
+    {
+        "id": "Q3648909",
+        "label": "Popular-science film"
+    },
+    {
+        "id": "Q3677141",
+        "label": "Cinepanettone"
+    },
+    {
+        "id": "Q3677185",
+        "label": "Cinema of Assam"
+    },
+    {
+        "id": "Q4901910",
+        "label": "Bhojpuri cinema"
+    },
+    {
+        "id": "Q5378150",
+        "label": "English-language Indian films"
+    },
+    {
+        "id": "Q7130449",
+        "label": "Panda pornography"
+    },
+    {
+        "id": "Q9259727",
+        "label": "religious film"
+    },
+    {
+        "id": "Q12912091",
+        "label": "fiction film"
+    },
+    {
+        "id": "Q16721823",
+        "label": "film about Taras Shevchenko"
+    },
+    {
+        "id": "Q17123180",
+        "label": "sequel film"
+    },
+    {
+        "id": "Q18011172",
+        "label": "film project"
+    },
+    {
+        "id": "Q18539720",
+        "label": "video album"
+    },
+    {
+        "id": "Q20366042",
+        "label": "unfinished film"
+    },
+    {
+        "id": "Q20650540",
+        "label": "anime film"
+    },
+    {
+        "id": "Q24887738",
+        "label": "Tibetan-language Film"
+    },
+    {
+        "id": "Q33111614",
+        "label": "prequel film"
+    },
+    {
+        "id":"Q157394",
+        "label":"fantasy film"
+    },
+    {
+        "id":"Q11424",
+        "label":"film"
+    }
+]
